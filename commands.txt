@@ -8,3 +8,5 @@ git commands
 
 
 git clone < repository url>> to generate a github repository to local machine
+
+git
